@@ -1,4 +1,4 @@
-//1. 설계해 놓고 @GetMapping만 갖다붙이면 자동으로 호출(13~15행)
+//1. 설계해 놓고 @GetMapping만 갖다붙이면 자동으로 호출(14~21행)
 //2. 코드에서 request, send/reDirect 등 다 뺀다. @GetMapping으로 WEB-INF 아래 register.jsp 호출하게끔 한다.
 //결과적으로는 하나의 서블릿에서 분기하게 해 주게끔 짜는 게 목적이다. @WebServlet("/board/*.do")이 서블릿 하나에서 URL을 분기(@GetMapping("/register"))
 

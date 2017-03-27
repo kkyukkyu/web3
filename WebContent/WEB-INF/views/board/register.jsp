@@ -8,7 +8,9 @@
 </head>
 <body>
 
-<h1></h1>
+<h1>REGISTER PAGE</h1>
 
 </body>
 </html>
+
+<!-- "localhost:8080/web4/board/register.do" го╦И, init  -->
